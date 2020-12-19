@@ -1,5 +1,6 @@
+https : //www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
 #include <bits/stdc++.h>
-using namespace std;
+        using namespace std;
 #define ll long long
 typedef pair<int, int> pi;
 auto speedup = []() {
